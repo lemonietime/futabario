@@ -104,8 +104,8 @@
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
-         "required": true,
-         "value": ""
+         "required": false,
+         "value": "1667117065 1443600554"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
