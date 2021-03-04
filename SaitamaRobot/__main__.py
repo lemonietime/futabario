@@ -204,19 +204,19 @@ def start(update: Update, context: CallbackContext):
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username)),
                          InlineKeyboardButton(
-                             text="🕊SUPPORT Bot",
+                             text="🕊SUPPORT ",
                              url="https://t.me/futabariosupport")
                      ],
                      [
                         InlineKeyboardButton(
                             text=" 🤎 Help ",
-                            url="https://t.me/{}?start=help"),
+                            url="https://t.me/futabario_bot?start=help"),
                          
                      ],
                      [
                         InlineKeyboardButton(
-                             text="📓 Starter Guide Bot ",
-                             url="https://t.me/MihaliFlorescuBot")
+                             text="Owner♥️ ",
+                             url="https://t.me/Nathalie_Agathaa")
                     
                     ]]))
     else:
